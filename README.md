@@ -1,1 +1,1 @@
-COP3503: Programming Fundamentals 2 - Course Projects
+COP3503: Programming Fundamentals 2 - Course Project and Assignment
